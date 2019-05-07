@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="433e7327-19b3-4a6e-a6f7-76b6f6177714" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Views/Home/Index.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+              <folding>
+                <marker date="1557196303268" expanded="true" signature="0:41" ph="@..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wwwroot/css/site.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Views/Shared/_Layout.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Controllers/HomeController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+              <folding>
+                <marker date="1557196521997" expanded="false" signature="6:358" ph="..." />
+                <marker date="1557196521997" expanded="true" signature="390:1490" ph="{...}" />
+                <marker date="1557196521997" expanded="true" signature="437:1488" ph="{...}" />
+                <marker date="1557196521997" expanded="true" signature="480:527" ph="{...}" />
+                <marker date="1557196521997" expanded="true" signature="605:1482" ph="{...}" />
+                <marker date="1557196521997" expanded="true" signature="678:737" ph="{...}" />
+                <marker date="1557196521997" expanded="true" signature="954:1049" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>@</find>
+      <find>Privacy</find>
+      <find>margin-bottom: 60px</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D32DB49E-5E34-4072-9DA3-1845C03DDC3A/2b/4beff887/JsonConvert.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D32DB49E-5E34-4072-9DA3-1845C03DDC3A/27/6411b1ef/XmlNodeConverter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Views/Shared/Error.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D32DB49E-5E34-4072-9DA3-1845C03DDC3A/52/fc5df7f9/CamelCasePropertyNamesContractResolver.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D32DB49E-5E34-4072-9DA3-1845C03DDC3A/82/b3fe89d0/CamelCaseNamingStrategy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D32DB49E-5E34-4072-9DA3-1845C03DDC3A/0c/194d41ed/StringUtils.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Views/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D32DB49E-5E34-4072-9DA3-1845C03DDC3A/90/4811bb75/JsonSerializer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Views/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Models/Conversion.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Models/Convertion.cs" />
+        <option value="$PROJECT_DIR$/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/wwwroot/css/site.css" />
+        <option value="$PROJECT_DIR$/Controllers/HomeController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="170" />
+    <option name="y" value="91" />
+    <option name="width" value="1026" />
+    <option name="height" value="546" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <autoscrollToSource SolutionExplorer="true" />
+      <autoscrollFromSource SolutionExplorer="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="xml-json" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="xml-json" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="xml-json" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Models" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="xml-json" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="xml-json" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Home" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="xml-json" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Shared" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="xml-json" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="wwwroot" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="xml-json" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="wwwroot" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="css" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.xml-json: xml_json">
+    <configuration name="xml-json: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/xml-json.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="xml-json: xml_json" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/xml-json.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="xml_json" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="433e7327-19b3-4a6e-a6f7-76b6f6177714" name="Default Changelist" comment="" />
+      <created>1557187560696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557187560696</updated>
+      <workItem from="1557187567163" duration="418000" />
+      <workItem from="1557188392795" duration="463000" />
+      <workItem from="1557188983666" duration="119000" />
+      <workItem from="1557189214828" duration="7344000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8344000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2065053" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.3290735" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3290735" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="REST Client" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" weight="0.3290735" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Views/Home/Privacy.cshtml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/_ViewImports.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1557182352683" expanded="false" signature="7:38" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/Conversion.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+          <folding>
+            <marker date="1557190180487" expanded="true" signature="25:158" ph="{...}" />
+            <marker date="1557190180487" expanded="true" signature="55:156" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D32DB49E-5E34-4072-9DA3-1845C03DDC3A/0c/194d41ed/StringUtils.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="142" column="7" lean-forward="true" selection-start-line="142" selection-start-column="7" selection-end-line="142" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D32DB49E-5E34-4072-9DA3-1845C03DDC3A/52/fc5df7f9/CamelCasePropertyNamesContractResolver.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="26" column="67" selection-start-line="26" selection-start-column="67" selection-end-line="26" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D32DB49E-5E34-4072-9DA3-1845C03DDC3A/90/4811bb75/JsonSerializer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2924">
+          <caret line="765" column="24" selection-start-line="765" selection-start-column="24" selection-end-line="765" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D32DB49E-5E34-4072-9DA3-1845C03DDC3A/82/b3fe89d0/CamelCaseNamingStrategy.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-82">
+          <caret line="51" column="17" lean-forward="true" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D32DB49E-5E34-4072-9DA3-1845C03DDC3A/2b/4beff887/JsonConvert.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-176">
+          <caret line="596" column="59" lean-forward="true" selection-start-line="596" selection-start-column="59" selection-end-line="596" selection-end-column="59" />
+          <folding>
+            <marker date="1557192953007" expanded="true" signature="0:351" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1557192953007" expanded="false" signature="359:595" ph="..." />
+            <marker date="1557192953007" expanded="true" signature="622:44351" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="627:949" ph="/// Provides methods for converting between .NET types and JSON types. ... " />
+            <marker date="1557192953007" expanded="true" signature="983:44349" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="992:1120" ph="/// Represents JavaScript's boolean value &lt;c&gt;true&lt;/c&gt; as a string. This field is read-only. ... " />
+            <marker date="1557192953007" expanded="true" signature="1174:1303" ph="/// Represents JavaScript's boolean value &lt;c&gt;false&lt;/c&gt; as a string. This field is read-only. ... " />
+            <marker date="1557192953007" expanded="true" signature="1359:1473" ph="/// Represents JavaScript's &lt;c&gt;null&lt;/c&gt; as a string. This field is read-only. ... " />
+            <marker date="1557192953007" expanded="true" signature="1527:1646" ph="/// Represents JavaScript's &lt;c&gt;undefined&lt;/c&gt; as a string. This field is read-only. ... " />
+            <marker date="1557192953007" expanded="true" signature="1710:1830" ph="/// Represents JavaScript's positive infinity as a string. This field is read-only. ... " />
+            <marker date="1557192953007" expanded="true" signature="1900:2020" ph="/// Represents JavaScript's negative infinity as a string. This field is read-only. ... " />
+            <marker date="1557192953007" expanded="true" signature="2091:2204" ph="/// Represents JavaScript's &lt;c&gt;NaN&lt;/c&gt; as a string. This field is read-only. ... " />
+            <marker date="1557192953007" expanded="true" signature="2264:2903" ph="/// Gets or sets a function that creates default &lt;see cref=&quot;T:Newtonsoft.Json.JsonSerializerSettings&quot; /&gt;. ... " />
+            <marker date="1557192953007" expanded="true" signature="2986:3262" ph="/// Converts the &lt;see cref=&quot;T:System.DateTime&quot; /&gt; to its JSON string representation. ... " />
+            <marker date="1557192953007" expanded="true" signature="3312:3436" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="3442:3979" ph="/// Converts the &lt;see cref=&quot;T:System.DateTime&quot; /&gt; to its JSON string representation using the &lt;see cref=&quot;T:Newton ... " />
+            <marker date="1557192953007" expanded="true" signature="4114:4539" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="4285:4533" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="4545:4833" ph="/// Converts the &lt;see cref=&quot;T:System.DateTimeOffset&quot; /&gt; to its JSON string representation. ... " />
+            <marker date="1557192953007" expanded="true" signature="4889:4977" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="4983:5422" ph="/// Converts the &lt;see cref=&quot;T:System.DateTimeOffset&quot; /&gt; to its JSON string representation using the &lt;see cref=&quot;T: ... " />
+            <marker date="1557192953007" expanded="true" signature="5505:5852" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="5595:5846" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="5858:6132" ph="/// Converts the &lt;see cref=&quot;T:System.Boolean&quot; /&gt; to its JSON string representation. ... " />
+            <marker date="1557192953007" expanded="true" signature="6178:6273" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="6279:6547" ph="/// Converts the &lt;see cref=&quot;T:System.Char&quot; /&gt; to its JSON string representation. ... " />
+            <marker date="1557192953007" expanded="true" signature="6593:6662" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="6668:6936" ph="/// Converts the &lt;see cref=&quot;T:System.Enum&quot; /&gt; to its JSON string representation. ... " />
+            <marker date="1557192953007" expanded="true" signature="6982:7028" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="7034:7304" ph="/// Converts the &lt;see cref=&quot;T:System.Int32&quot; /&gt; to its JSON string representation. ... " />
+            <marker date="1557192953007" expanded="true" signature="7349:7453" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="7459:7729" ph="/// Converts the &lt;see cref=&quot;T:System.Int16&quot; /&gt; to its JSON string representation. ... " />
+            <marker date="1557192953007" expanded="true" signature="7776:7880" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="7886:8158" ph="/// Converts the &lt;see cref=&quot;T:System.UInt16&quot; /&gt; to its JSON string representation. ... " />
+            <marker date="1557192953007" expanded="true" signature="8232:8336" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="8342:8614" ph="/// Converts the &lt;see cref=&quot;T:System.UInt32&quot; /&gt; to its JSON string representation. ... " />
+            <marker date="1557192953007" expanded="true" signature="8686:8790" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="8796:9067" ph="/// Converts the &lt;see cref=&quot;T:System.Int64&quot; /&gt;  to its JSON string representation. ... " />
+            <marker date="1557192953007" expanded="true" signature="9113:9217" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="9279:9383" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="9389:9661" ph="/// Converts the &lt;see cref=&quot;T:System.UInt64&quot; /&gt; to its JSON string representation. ... " />
+            <marker date="1557192953007" expanded="true" signature="9734:9838" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="9844:10116" ph="/// Converts the &lt;see cref=&quot;T:System.Single&quot; /&gt; to its JSON string representation. ... " />
+            <marker date="1557192953007" expanded="true" signature="10163:10305" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="10452:10683" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="10858:11212" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="11218:11490" ph="/// Converts the &lt;see cref=&quot;T:System.Double&quot; /&gt; to its JSON string representation. ... " />
+            <marker date="1557192953007" expanded="true" signature="11538:11671" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="11819:12032" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="12105:12306" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="12365:12459" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="12465:12733" ph="/// Converts the &lt;see cref=&quot;T:System.Byte&quot; /&gt; to its JSON string representation. ... " />
+            <marker date="1557192953007" expanded="true" signature="12779:12883" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="12889:13159" ph="/// Converts the &lt;see cref=&quot;T:System.SByte&quot; /&gt; to its JSON string representation. ... " />
+            <marker date="1557192953007" expanded="true" signature="13232:13336" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="13342:13614" ph="/// Converts the &lt;see cref=&quot;T:System.Decimal&quot; /&gt; to its JSON string representation. ... " />
+            <marker date="1557192953007" expanded="true" signature="13663:13799" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="13805:14073" ph="/// Converts the &lt;see cref=&quot;T:System.Guid&quot; /&gt; to its JSON string representation. ... " />
+            <marker date="1557192953007" expanded="true" signature="14119:14178" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="14243:14465" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="14471:14747" ph="/// Converts the &lt;see cref=&quot;T:System.TimeSpan&quot; /&gt; to its JSON string representation. ... " />
+            <marker date="1557192953007" expanded="true" signature="14797:14856" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="14925:15001" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="15007:15273" ph="/// Converts the &lt;see cref=&quot;T:System.Uri&quot; /&gt; to its JSON string representation. ... " />
+            <marker date="1557192953007" expanded="true" signature="15318:15441" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="15505:15585" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="15591:15863" ph="/// Converts the &lt;see cref=&quot;T:System.String&quot; /&gt; to its JSON string representation. ... " />
+            <marker date="1557192953007" expanded="true" signature="15911:15970" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="15976:16320" ph="/// Converts the &lt;see cref=&quot;T:System.String&quot; /&gt; to its JSON string representation. ... " />
+            <marker date="1557192953007" expanded="true" signature="16384:16479" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="16485:16908" ph="/// Converts the &lt;see cref=&quot;T:System.String&quot; /&gt; to its JSON string representation. ... " />
+            <marker date="1557192953007" expanded="true" signature="17034:17301" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="17307:17579" ph="/// Converts the &lt;see cref=&quot;T:System.Object&quot; /&gt; to its JSON string representation. ... " />
+            <marker date="1557192953007" expanded="true" signature="17627:19969" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="17748:19963" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="19975:20179" ph="///Serializes the specified object to a JSON string. ... " />
+            <marker date="1557192953007" expanded="true" signature="20234:20339" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="20345:20671" ph="/// Serializes the specified object to a JSON string using formatting. ... " />
+            <marker date="1557192953007" expanded="true" signature="20749:20853" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="20859:21242" ph="/// Serializes the specified object to a JSON string using a collection of &lt;see cref=&quot;T:Newtonsoft.Json.JsonConve ... " />
+            <marker date="1557192953007" expanded="true" signature="21332:21788" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="21581:21649" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="21794:22279" ph="/// Serializes the specified object to a JSON string using formatting and a collection of &lt;see cref=&quot;T:Newtonsoft ... " />
+            <marker date="1557192953007" expanded="true" signature="22411:22879" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="22660:22728" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="22885:23375" ph="/// Serializes the specified object to a JSON string using &lt;see cref=&quot;T:Newtonsoft.Json.JsonSerializerSettings&quot; / ... " />
+            <marker date="1557192953007" expanded="true" signature="23463:23547" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="23553:24427" ph="/// Serializes the specified object to a JSON string using a type, formatting and &lt;see cref=&quot;T:Newtonsoft.Json.Js ... " />
+            <marker date="1557192953007" expanded="true" signature="24526:24695" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="24701:25293" ph="/// Serializes the specified object to a JSON string using formatting and &lt;see cref=&quot;T:Newtonsoft.Json.JsonSerial ... " />
+            <marker date="1557192953007" expanded="true" signature="25423:25519" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="25525:26486" ph="/// Serializes the specified object to a JSON string using a type, formatting and &lt;see cref=&quot;T:Newtonsoft.Json.Js ... " />
+            <marker date="1557192953007" expanded="true" signature="26633:26848" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="26974:27395" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="27203:27351" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="27401:27597" ph="///Deserializes the JSON to a .NET object. ... " />
+            <marker date="1557192953007" expanded="true" signature="27654:27761" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="27767:28269" ph="/// Deserializes the JSON to a .NET object using &lt;see cref=&quot;T:Newtonsoft.Json.JsonSerializerSettings&quot; /&gt;. ... " />
+            <marker date="1557192953007" expanded="true" signature="28359:28445" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="28451:28755" ph="///Deserializes the JSON to the specified .NET type. ... " />
+            <marker date="1557192953007" expanded="true" signature="28823:28923" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="28929:29217" ph="///Deserializes the JSON to the specified .NET type. ... " />
+            <marker date="1557192953007" expanded="true" signature="29272:29369" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="29375:29885" ph="///Deserializes the JSON to the given anonymous type. ... " />
+            <marker date="1557192953007" expanded="true" signature="29970:30036" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="30042:30858" ph="/// Deserializes the JSON to the given anonymous type using &lt;see cref=&quot;T:Newtonsoft.Json.JsonSerializerSettings&quot;  ... " />
+            <marker date="1557192953007" expanded="true" signature="30995:31071" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="31077:31532" ph="/// Deserializes the JSON to the specified .NET type using a collection of &lt;see cref=&quot;T:Newtonsoft.Json.JsonConve ... " />
+            <marker date="1557192953007" expanded="true" signature="31622:31713" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="31719:32315" ph="/// Deserializes the JSON to the specified .NET type using &lt;see cref=&quot;T:Newtonsoft.Json.JsonSerializerSettings&quot; / ... " />
+            <marker date="1557192953007" expanded="true" signature="32403:32492" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="32498:32945" ph="/// Deserializes the JSON to the specified .NET type using a collection of &lt;see cref=&quot;T:Newtonsoft.Json.JsonConve ... " />
+            <marker date="1557192953007" expanded="true" signature="33067:33518" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="33316:33384" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="33524:34113" ph="/// Deserializes the JSON to the specified .NET type using &lt;see cref=&quot;T:Newtonsoft.Json.JsonSerializerSettings&quot; / ... " />
+            <marker date="1557192953007" expanded="true" signature="34233:34686" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="34692:34937" ph="/// Populates the object with values from the JSON string. ... " />
+            <marker date="1557192953007" expanded="true" signature="35004:35096" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="35102:35635" ph="/// Populates the object with values from the JSON string using &lt;see cref=&quot;T:Newtonsoft.Json.JsonSerializerSettin ... " />
+            <marker date="1557192953007" expanded="true" signature="35735:36266" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="35852:36260" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="36040:36252" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="36272:36524" ph="/// Serializes the &lt;see cref=&quot;T:System.Xml.XmlNode&quot; /&gt; to a JSON string. ... " />
+            <marker date="1557192953007" expanded="true" signature="36580:36658" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="36664:37020" ph="/// Serializes the &lt;see cref=&quot;T:System.Xml.XmlNode&quot; /&gt; to a JSON string using formatting. ... " />
+            <marker date="1557192953007" expanded="true" signature="37099:37280" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="37286:37797" ph="/// Serializes the &lt;see cref=&quot;T:System.Xml.XmlNode&quot; /&gt; to a JSON string using formatting and omits the root objec ... " />
+            <marker date="1557192953007" expanded="true" signature="37897:38134" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="37975:38024" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="38140:38387" ph="/// Deserializes the &lt;see cref=&quot;T:System.Xml.XmlNode&quot; /&gt; from a JSON string. ... " />
+            <marker date="1557192953007" expanded="true" signature="38450:38529" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="38535:38983" ph="/// Deserializes the &lt;see cref=&quot;T:System.Xml.XmlNode&quot; /&gt; from a JSON string nested in a root element specified by ... " />
+            <marker date="1557192953007" expanded="true" signature="39094:39193" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="39199:39934" ph="/// Deserializes the &lt;see cref=&quot;T:System.Xml.XmlNode&quot; /&gt; from a JSON string nested in a root element specified by ... " />
+            <marker date="1557192953007" expanded="true" signature="40077:40347" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="40215:40339" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="40353:40617" ph="/// Serializes the &lt;see cref=&quot;T:System.Xml.Linq.XNode&quot; /&gt; to a JSON string. ... " />
+            <marker date="1557192953007" expanded="true" signature="40671:40747" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="40753:41121" ph="/// Serializes the &lt;see cref=&quot;T:System.Xml.Linq.XNode&quot; /&gt; to a JSON string using formatting. ... " />
+            <marker date="1557192953007" expanded="true" signature="41198:41276" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="41282:41799" ph="/// Serializes the &lt;see cref=&quot;T:System.Xml.Linq.XNode&quot; /&gt; to a JSON string using formatting and omits the root ob ... " />
+            <marker date="1557192953007" expanded="true" signature="41897:42134" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="41975:42024" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="42140:42393" ph="/// Deserializes the &lt;see cref=&quot;T:System.Xml.Linq.XNode&quot; /&gt; from a JSON string. ... " />
+            <marker date="1557192953007" expanded="true" signature="42452:42529" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="42535:42989" ph="/// Deserializes the &lt;see cref=&quot;T:System.Xml.Linq.XNode&quot; /&gt; from a JSON string nested in a root element specified ... " />
+            <marker date="1557192953007" expanded="true" signature="43096:43193" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="43199:43940" ph="/// Deserializes the &lt;see cref=&quot;T:System.Xml.Linq.XNode&quot; /&gt; from a JSON string nested in a root element specified ... " />
+            <marker date="1557192953007" expanded="true" signature="44079:44345" ph="{...}" />
+            <marker date="1557192953007" expanded="true" signature="44213:44337" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D32DB49E-5E34-4072-9DA3-1845C03DDC3A/27/6411b1ef/XmlNodeConverter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4">
+          <caret line="116" column="19" selection-start-line="116" selection-start-column="19" selection-end-line="116" selection-end-column="19" />
+          <folding>
+            <marker date="1557193815900" expanded="true" signature="0:367" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1557193815900" expanded="false" signature="375:580" ph="..." />
+            <marker date="1557193815900" expanded="true" signature="618:40738" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="724:40736" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="1246:1489" ph="/// Gets or sets the name of the root element to insert when deserializing to XML if the JSON structure has produ ... " />
+            <marker date="1557193815900" expanded="true" signature="1554:1870" ph="/// Gets or sets a flag to indicate whether to write the Json.NET array attribute. ... " />
+            <marker date="1557193815900" expanded="true" signature="1926:2133" ph="/// Gets or sets a value indicating whether to write the root JSON object. ... " />
+            <marker date="1557193815900" expanded="true" signature="2184:2462" ph="///Writes the JSON representation of the object. ... " />
+            <marker date="1557193815900" expanded="true" signature="2557:3083" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="2588:2632" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="2643:3077" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="3127:3383" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="3466:4262" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="3617:3827" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="3679:3819" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="3952:4256" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="4049:4248" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="4342:4699" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="4779:6024" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="4814:6018" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="6065:6340" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="6125:6314" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="6492:9331" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="6535:9325" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="7014:8563" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="7199:7928" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="7329:7914" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="7442:7742" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="7945:8551" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="8052:8151" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="8170:8537" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="8244:8477" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="8334:8390" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="8597:8734" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="8841:9317" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="8884:9286" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="9520:10031" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="9614:9711" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="9722:10025" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="10206:10567" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="10243:10329" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="10340:10561" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="10711:15379" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="10746:15373" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="10889:11002" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="11091:11433" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="11178:11421" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="11810:11978" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="11993:12315" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="13605:13729" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="13790:13918" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="13979:14107" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="14176:14320" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="14651:14780" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="14842:14973" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="15037:15172" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="15431:15607" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="15491:15582" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="15613:16035" ph="///Reads the JSON representation of the object. ... " />
+            <marker date="1557193815900" expanded="true" signature="16181:18705" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="16219:18699" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="16526:17026" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="17087:17584" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="17461:17523" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="17833:17960" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="17975:18109" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="18156:18339" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="18885:20242" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="18929:20118" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="18986:19984" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="19044:19846" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="20417:22125" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="20809:21040" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="21051:22119" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="21101:21999" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="21155:21652" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="21289:21640" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="21667:21989" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="22383:23993" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="22574:23123" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="22671:23115" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="23155:23987" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="24234:25008" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="25077:26738" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="25115:26732" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="26919:27763" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="27222:27346" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="27561:27757" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="27654:27749" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="27847:28276" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="28399:32350" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="28437:32344" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="28923:32307" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="28973:32295" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="29134:31890" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="29187:31872" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="29358:31009" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="29533:30211" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="30258:30385" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="31577:31724" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="31911:32006" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="32496:33950" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="32536:33706" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="32741:33553" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="32835:33397" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="32886:33228" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="33245:33385" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="33412:33543" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="33717:33944" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="34051:35443" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="34286:35282" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="34371:35141" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="34416:34984" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="34465:34815" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="34832:34972" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="34999:35131" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="35154:35274" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="35601:35947" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="36099:38503" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="36156:38460" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="36996:37906" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="37115:37264" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="37320:37850" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="37455:37834" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="37504:37791" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="37629:37771" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="37923:38064" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="38509:38907" ph="/// Checks if the &lt;paramref name=&quot;attributeName&quot; /&gt; is a namespace attribute. ... " />
+            <marker date="1557193815900" expanded="true" signature="38986:39403" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="39063:39347" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="39110:39186" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="39223:39339" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="39455:39779" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="39499:39753" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="39785:40093" ph="/// Determines whether this instance can convert the specified value type. ... " />
+            <marker date="1557193815900" expanded="true" signature="40145:40408" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="40499:40570" ph="{...}" />
+            <marker date="1557193815900" expanded="true" signature="40661:40732" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/_ViewStart.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1557182352690" expanded="true" signature="0:28" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/Shared/_CookieConsentPartial.cshtml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <marker date="1557196303268" expanded="true" signature="0:41" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wwwroot/css/site.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+          <folding>
+            <marker date="1557196521997" expanded="false" signature="6:358" ph="..." />
+            <marker date="1557196521997" expanded="true" signature="390:1490" ph="{...}" />
+            <marker date="1557196521997" expanded="true" signature="437:1488" ph="{...}" />
+            <marker date="1557196521997" expanded="true" signature="480:527" ph="{...}" />
+            <marker date="1557196521997" expanded="true" signature="605:1482" ph="{...}" />
+            <marker date="1557196521997" expanded="true" signature="678:737" ph="{...}" />
+            <marker date="1557196521997" expanded="true" signature="954:1049" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
